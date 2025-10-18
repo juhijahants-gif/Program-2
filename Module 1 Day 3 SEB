@@ -1,0 +1,47 @@
+#Day 3
+
+#Aim:
+
+   To write a Python function that takes two arguments and returns their sum. The function should be assigned to a variable which can then be used to perform          addition.
+
+#Algorithm:
+
+#Step 1:
+
+   Define a function that accepts two parameters (a, b).
+   
+#Step 2:
+
+   Within the function, return the sum of the two parameters (a + b).
+   
+#Step 3:
+
+   Assign this function to a variable named f.
+   
+#Step 4:
+
+  To use the function, call f with two numbers as arguments.
+  
+#Step 5:
+
+  Print or return the output of the function call.
+
+#Program:
+
+```
+a=int(input())
+b=int(input())
+f=a+b
+print(f)
+```
+#Output:
+<img width="1140" height="254" alt="Screenshot 2025-10-18 200929" src="https://github.com/user-attachments/assets/545f7c65-15d3-45db-bbc6-17ded6403dbe" />
+
+#Result:
+
+  The program successfully calculates sum of natural numbers
+
+
+
+
+   
