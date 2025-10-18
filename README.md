@@ -71,6 +71,7 @@ else:
    The program successfully checks given number as palindrome
 
 #Day 2
+
 #Aim:
 
    To write a Python program that calculates and displays the sum of the first N natural numbers using a function.
@@ -88,15 +89,18 @@ else:
 #Step 3:
 
    Initializes a sum variable to 0.
+   
 #Step 4:
 
     Uses a loop from 1 to n inclusive to add each number to sum.
+    
 #Step 5:
 
    Returns the sum.
 #Step 6:
 
    Call the function with the user input N.
+   
 #Step 7:
 
     Display the returned sum.
