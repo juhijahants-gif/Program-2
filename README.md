@@ -238,7 +238,9 @@ else:
     print(num,"is odd")
 ```
 #Output:
+
 <img width="933" height="189" alt="Screenshot 2025-10-18 202817" src="https://github.com/user-attachments/assets/8ac477a1-1fcd-437c-986e-14425a6edda3" />
+
 #Result:
 
   The program successfully checks the given number as even or odd
