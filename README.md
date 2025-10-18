@@ -4,34 +4,44 @@
   To write a Python program that checks whether a given number is a palindrome. A palindrome number is a number that remains the same when its digits are reversed.
   
 #Algorithm:
+
 step 1:
   
   Input the number to check
+  
 step 2:
   
   Store the original number in a temporary variable.
+  
 step 3:
   
   Initialize a variable to store the reversed number as 0.
+  
 step 4:
   
-  While the number is greater than 0:
+  While the number is greater than 0
+  
 step 5:
   
   Extract the last digit using modulo operation.
+  
 step 6:
   
   Update the reversed number by multiplying the current reversed number by 10 and adding the extracted digit.
+  
 step 7:
    
    Reduce the number by dividing it by 10 (integer division).
+   
 step 8:
    
    Compare the reversed number with the original number.
+   
 step 9:
    
    If both are equal, the number is a palindrome.
    Otherwise, it is not a palindrome.
+   
 step 10:
   
    Display the result.
