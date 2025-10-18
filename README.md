@@ -166,6 +166,48 @@ print(f)
 
   The program successfully calculates sum of natural numbers
 
+#Day 4
+#Aim:
+
+   The aim is to write a Python program that prints a pyramid pattern of numbers based on user input for the number of rows.
+
+#Algorithm:
+#Step 1:
+
+   Take input from the user for the number of rows (n).
+   
+#Step 2:
+
+   For each row i from 1 to n
+   
+#Step 3:
+
+   Print spaces to align the row in pyramid shape (number of spaces = n - i).
+   
+#Step 4:
+
+   Print numbers from 1 to i with spaces in between.
+   
+#Step 5:
+
+  Move to the next line after each row is printed.
+#Program:
+```
+num=int(input())
+for i in range(1,num+1):
+    for j in range(1,i+1):
+        print(j,end=" ")
+    print()
+```
+#Output:
+<img width="1136" height="501" alt="Screenshot 2025-10-18 201901" src="https://github.com/user-attachments/assets/7570c691-2cac-4e54-95b1-62ed565e70a7" />
+#Result:
+
+  The program successfully prints the given pattern
+
+
+
+
 
 
 
