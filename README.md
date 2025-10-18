@@ -1,6 +1,7 @@
 # Program-2
 #Aim
   To write a Python program that checks whether a given number is a palindrome. A palindrome number is a number that remains the same when its digits are reversed.
+  
 #Algorithm:
 step 1:
   Input the number to check
@@ -23,6 +24,7 @@ step 9:
    Otherwise, it is not a palindrome.
 step 10:
    Display the result.
+   
 #Program:
 ```
 n=int(input())
