@@ -66,4 +66,5 @@ else:
 <img width="998" height="220" alt="Screenshot 2025-10-18 192200" src="https://github.com/user-attachments/assets/6c03a5a0-f1df-44f7-8d4c-6fa32c1662d4" />
 
 #Result:
+
    The program successfully checks given number as palindrome
