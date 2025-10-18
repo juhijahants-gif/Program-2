@@ -1,5 +1,6 @@
 # Program-2
 #Day 1
+
 #Aim:
   
   To write a Python program that checks whether a given number is a palindrome. A palindrome number is a number that remains the same when its digits are reversed.
