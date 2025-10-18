@@ -98,6 +98,7 @@ else:
 #Step 5:
 
    Returns the sum.
+   
 #Step 6:
 
    Call the function with the user input N.
